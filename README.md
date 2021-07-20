@@ -1,3 +1,3 @@
 # Git-commands
 
-git init
+git checkout master
